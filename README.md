@@ -26,18 +26,22 @@
 **Banco de Dados:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Trabson742&show_icons=true&theme=radical)
 
 ## 📌 Projetos em Destaque
 
+Ainda em Desenvolvimento
+<!--
 ### 🚀 [Nome do Projeto 1]
 Breve descrição + tecnologias utilizadas
 
 ### 🚀 [Nome do Projeto 2]  
 Breve descrição + tecnologias utilizadas
+-->
 
 ---
 
