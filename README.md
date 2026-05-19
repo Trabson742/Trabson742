@@ -40,7 +40,7 @@ Além do código, tenho forte afinidade com a cultura **DevOps**, automatizando 
 
 Para manter minhas habilidades afiadas e explorar novas tecnologias, estou documentando a evolução de 4 projetos principais:
 
-1.  **[Pronturário Online](link-do-repositorio)**
+1.  **[Pronturário Online](https://github.com/Trabson742/prontuario_online)**
    - **Stack:** PHP 8.x, Laravel, Livewire, Pest/PHPUnit.
    - **O que é:** Uma aplicação web construída sob a metodologia TDD (Test-Driven Development), com ambiente 100% Dockerizado e CI/CD ativo.
 
